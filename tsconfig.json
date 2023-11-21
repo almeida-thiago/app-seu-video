@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/assets/*": ["assets/*"],
+      "@/components/*": ["components/*"],
+      "@/constants/*": ["constants/*"],
+      "@/features/*": ["features/*"],
+      "@/models/*": ["models/*"],
+      "@/states/*": ["states/*"],
+      "@/screens/*": ["app/*"],
+      "@/security/*": ["security/*"],
+      "@/services/*": ["services/*"],
+      "@/utils/*": ["utils/*"]
+    }
+  },
+  "extends": "expo/tsconfig.base",
+  "include": ["**/*.ts", "**/*.tsx", ".expo/types/**/*.ts", "expo-env.d.ts"]
+}

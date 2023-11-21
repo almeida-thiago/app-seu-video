@@ -1,0 +1,229 @@
+[
+  {
+    "id": "a3dd9301-1155-4891-9755-6381a496f4da",
+    "user": {
+      "username": "johndoe41",
+      "name": "John Doe",
+      "email": "joao_ninguem@google.com.br",
+      "avatar": "https://ianrodrigues.github.io/hugo-tailwind-journal-demo/images/avatar.jpg",
+      "followers": 20
+    },
+    "video": {
+      "uri": "https://www.shutterstock.com/shutterstock/videos/1094139015/preview/stock-footage-magnetic-force-demonstration-showing-attraction-and-repulsion.mp4",
+      "poster": "https://www.shutterstock.com/shutterstock/videos/1094139015/thumb/7.jpg?ip=x480",
+      "title": "Magnetic force",
+      "description": "Magnetic force demonstration showing attraction and repulsion",
+      "likes": 12,
+      "comments": [
+        {
+          "id": "a3dd9d01-1155-4891-9755-6381a496f4ca",
+          "user": {
+            "username": "andea",
+            "name": "Andrea Su",
+            "email": "asu@google.com.br",
+            "avatar": "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+            "followers": 12
+          },
+          "date": "2012-04-23T18:25:43.511Z",
+          "text": "Duis interdum tellus sapien. Aenean eget accumsan odio, sed ullamcorper erat. Fusce quis eros lectus. Vivamus commodo ullamcorper dolor non ultricies. Vestibulum orci enim, lacinia sit amet suscipit vitae, finibus vitae magna. Nunc lacinia sagittis nulla at condimentum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Etiam semper nisl id ornare pulvinar. Fusce turpis turpis, consectetur eget dictum eu, tincidunt ut est. Phasellus nisi erat, fringilla sed bibendum et, consectetur ac neque. Pellentesque purus tortor, facilisis quis velit id, tempor lobortis risus."
+        },
+        {
+          "id": "a3dd9301-1145-4891-9755-6381a496f4ca",
+          "user": {
+            "username": "johndoe41",
+            "name": "John Doe",
+            "email": "joao_ninguem@google.com.br",
+            "avatar": "https://ianrodrigues.github.io/hugo-tailwind-journal-demo/images/avatar.jpg",
+            "followers": 20
+          },
+          "date": "2012-04-23T18:25:43.511Z",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nulla magna, accumsan sit amet ligula sit amet, pulvinar blandit libero."
+        },
+        {
+          "id": "a3dd9301-1155-4x91-9755-6381a496f4ca",
+          "user": {
+            "username": "luluz",
+            "name": "Lucy",
+            "email": "lucy@google.com.br",
+            "avatar": "https://images.pexels.com/photos/948873/pexels-photo-948873.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+            "followers": 400
+          },
+          "date": "2012-04-23T18:25:43.511Z",
+          "text": "Maecenas tempor arcu scelerisque orci congue, sit amet venenatis eros varius. Aenean in magna quam. Duis interdum tellus sapien. Aenean eget accumsan odio, sed ullamcorper erat. Fusce quis eros lectus. Vivamus commodo ullamcorper dolor non ultricies. Vestibulum orci enim, lacinia sit amet suscipit vitae, finibus vitae magna. Nunc lacinia sagittis nulla at condimentum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Etiam semper nisl id ornare pulvinar. Fusce turpis turpis, consectetur eget dictum eu, tincidunt ut est. Phasellus nisi erat, fringilla sed bibendum et, consectetur ac neque. Pellentesque purus tortor, facilisis quis velit id, tempor lobortis risus."
+        }
+      ]
+    }
+  },
+  {
+    "id": "a3dd9301-1155-4891-9755-63812496f4ca",
+    "user": {
+      "username": "andea",
+      "name": "Andrea Su",
+      "email": "asu@google.com.br",
+      "avatar": "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "followers": 12
+    },
+    "video": {
+      "uri": "https://www.shutterstock.com/shutterstock/videos/2382827/preview/stock-footage-hollywood-m-rz-james-cameron-s-und-mel-brooks-s-stern-auf-dem-walk-of-fame-am-m-rz.mp4",
+      "poster": "https://www.shutterstock.com/shutterstock/videos/2382827/thumb/1.jpg?ip=x480",
+      "title": "HOLLYWOOD - 2. MÄRZ",
+      "description": "James Cameron's und Mel Brooks's Stern auf dem Walk of Fame am 2. März 2012.",
+      "likes": 12,
+      "comments": [
+        {
+          "id": "a3dd9d01-1155-4891-9755-6381a496f4ca",
+          "user": {
+            "username": "johndoe41",
+            "name": "John Doe",
+            "email": "joao_ninguem@google.com.br",
+            "avatar": "https://ianrodrigues.github.io/hugo-tailwind-journal-demo/images/avatar.jpg",
+            "followers": 20
+          },
+          "date": "2012-04-23T18:25:43.511Z",
+          "text": "Duis interdum tellus sapien. Aenean eget accumsan odio, sed ullamcorper erat. Fusce quis eros lectus. Vivamus commodo ullamcorper dolor non ultricies. Vestibulum orci enim, lacinia sit amet suscipit vitae, finibus vitae magna. Nunc lacinia sagittis nulla at condimentum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Etiam semper nisl id ornare pulvinar. Fusce turpis turpis, consectetur eget dictum eu, tincidunt ut est. Phasellus nisi erat, fringilla sed bibendum et, consectetur ac neque. Pellentesque purus tortor, facilisis quis velit id, tempor lobortis risus."
+        }
+      ]
+    }
+  },
+  {
+    "id": "a3dd9301-11f5-4891-9755-6381a496f4ca",
+    "user": {
+      "username": "johndoe41",
+      "name": "John Doe",
+      "email": "joao_ninguem@google.com.br",
+      "avatar": "https://ianrodrigues.github.io/hugo-tailwind-journal-demo/images/avatar.jpg",
+      "followers": 20
+    },
+    "video": {
+      "uri": "https://www.shutterstock.com/shutterstock/videos/2457344/preview/stock-footage-las-vegas-mar-red-pedestrian-traffic-light-counts-down-from-to-with-advertising-in-the.mp4",
+      "poster": "https://www.shutterstock.com/shutterstock/videos/2457344/thumb/1.jpg?ip=x480",
+      "title": "LAS VEGAS - MAR 1",
+      "description": "Red Pedestrian Traffic Light counts down from 27 to 0 with advertising in the background on March 1, 2012 in Las Vegas, USA",
+      "likes": 12,
+      "comments": [
+        {
+          "id": "a3dd9d01-1155-4891-9755-6381a496f4ca",
+          "user": {
+            "username": "luluz",
+            "name": "Lucy",
+            "email": "lucy@google.com.br",
+            "avatar": "https://images.pexels.com/photos/948873/pexels-photo-948873.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+            "followers": 400
+          },
+          "date": "2012-04-23T18:25:43.511Z",
+          "text": "Duis interdum tellus sapien. Aenean eget accumsan odio, sed ullamcorper erat. Fusce quis eros lectus. Vivamus commodo ullamcorper dolor non ultricies. Vestibulum orci enim, lacinia sit amet suscipit vitae, finibus vitae magna. Nunc lacinia sagittis nulla at condimentum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Etiam semper nisl id ornare pulvinar. Fusce turpis turpis, consectetur eget dictum eu, tincidunt ut est. Phasellus nisi erat, fringilla sed bibendum et, consectetur ac neque. Pellentesque purus tortor, facilisis quis velit id, tempor lobortis risus."
+        },
+        {
+          "id": "a3dd9301-1145-4891-9755-6381a496f4ca",
+          "user": {
+            "username": "luluz",
+            "name": "Lucy",
+            "email": "lucy@google.com.br",
+            "avatar": "https://images.pexels.com/photos/948873/pexels-photo-948873.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+            "followers": 400
+          },
+          "date": "2012-04-23T18:25:43.511Z",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nulla magna, accumsan sit amet ligula sit amet, pulvinar blandit libero."
+        },
+        {
+          "id": "a3dd9301-1155-4x91-9755-6381a496f4ca",
+          "user": {
+            "username": "johndoe41",
+            "name": "John Doe",
+            "email": "joao_ninguem@google.com.br",
+            "avatar": "https://ianrodrigues.github.io/hugo-tailwind-journal-demo/images/avatar.jpg",
+            "followers": 20
+          },
+          "date": "2012-04-23T18:25:43.511Z",
+          "text": "Maecenas tempor arcu scelerisque orci congue, sit amet venenatis eros varius. Aenean in magna quam. Duis interdum tellus sapien. Aenean eget accumsan odio, sed ullamcorper erat. Fusce quis eros lectus. Vivamus commodo ullamcorper dolor non ultricies. Vestibulum orci enim, lacinia sit amet suscipit vitae, finibus vitae magna. Nunc lacinia sagittis nulla at condimentum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Etiam semper nisl id ornare pulvinar. Fusce turpis turpis, consectetur eget dictum eu, tincidunt ut est. Phasellus nisi erat, fringilla sed bibendum et, consectetur ac neque. Pellentesque purus tortor, facilisis quis velit id, tempor lobortis risus."
+        }
+      ]
+    }
+  },
+  {
+    "id": "a3dd9301-1155-4891-9755-6381a496s4ca",
+    "user": {
+      "username": "andea",
+      "name": "Andrea Su",
+      "email": "asu@google.com.br",
+      "avatar": "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "followers": 12
+    },
+    "video": {
+      "uri": "https://www.shutterstock.com/shutterstock/videos/1049520961/preview/stock-footage-authentic-shot-of-happy-mother-with-her-kids-are-making-a-selfie-or-video-call-to-father-or.mp4",
+      "poster": "https://www.shutterstock.com/shutterstock/videos/1049520961/thumb/12.jpg?ip=x480",
+      "title": "Authentic shot of happy mother",
+      "description": "Authentic shot of happy mother with her kids are making a selfie or video call to father or relatives in a bed. Concept of technology, new generation,family, connection, parenthood, authenticity",
+      "likes": 12,
+      "comments": [
+        {
+          "id": "a3dd9d01-1155-4891-9755-6381a496f4ca",
+          "user": {
+            "username": "luluz",
+            "name": "Lucy",
+            "email": "lucy@google.com.br",
+            "avatar": "https://images.pexels.com/photos/948873/pexels-photo-948873.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+            "followers": 400
+          },
+          "date": "2012-04-23T18:25:43.511Z",
+          "text": "Duis interdum tellus sapien. Aenean eget accumsan odio, sed ullamcorper erat. Fusce quis eros lectus. Vivamus commodo ullamcorper dolor non ultricies. Vestibulum orci enim, lacinia sit amet suscipit vitae, finibus vitae magna. Nunc lacinia sagittis nulla at condimentum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Etiam semper nisl id ornare pulvinar. Fusce turpis turpis, consectetur eget dictum eu, tincidunt ut est. Phasellus nisi erat, fringilla sed bibendum et, consectetur ac neque. Pellentesque purus tortor, facilisis quis velit id, tempor lobortis risus."
+        }
+      ]
+    }
+  },
+  {
+    "id": "a3dd9301-1155-4891-97c5-6381a496f4ca",
+    "user": {
+      "username": "luluz",
+      "name": "Lucy",
+      "email": "lucy@google.com.br",
+      "avatar": "https://images.pexels.com/photos/948873/pexels-photo-948873.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "followers": 400
+    },
+    "video": {
+      "uri": "https://www.shutterstock.com/shutterstock/videos/1062400057/preview/stock-footage-close-up-of-african-american-female-hands-with-little-cute-child-at-table-in-home-kitchen-making.mp4",
+      "poster": "https://www.shutterstock.com/shutterstock/videos/1062400057/thumb/1.jpg?ip=x480",
+      "title": "Close up of African American female",
+      "description": "Close up of African American female hands with little cute child at table in home kitchen making dough for cookies. Small kid helping mom to bake xmas biscuits. Holiday preparations concept",
+      "likes": 12,
+      "comments": [
+        {
+          "id": "a3dd9d01-1155-4891-9755-6381a496f4ca",
+          "user": {
+            "username": "johndoe41",
+            "name": "John Doe",
+            "email": "joao_ninguem@google.com.br",
+            "avatar": "https://ianrodrigues.github.io/hugo-tailwind-journal-demo/images/avatar.jpg",
+            "followers": 20
+          },
+          "date": "2012-04-23T18:25:43.511Z",
+          "text": "Duis interdum tellus sapien. Aenean eget accumsan odio, sed ullamcorper erat. Fusce quis eros lectus. Vivamus commodo ullamcorper dolor non ultricies. Vestibulum orci enim, lacinia sit amet suscipit vitae, finibus vitae magna. Nunc lacinia sagittis nulla at condimentum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Etiam semper nisl id ornare pulvinar. Fusce turpis turpis, consectetur eget dictum eu, tincidunt ut est. Phasellus nisi erat, fringilla sed bibendum et, consectetur ac neque. Pellentesque purus tortor, facilisis quis velit id, tempor lobortis risus."
+        },
+        {
+          "id": "a3dd9301-1145-4891-9755-6381a496f4ca",
+          "user": {
+            "username": "johndoe41",
+            "name": "John Doe",
+            "email": "joao_ninguem@google.com.br",
+            "avatar": "https://ianrodrigues.github.io/hugo-tailwind-journal-demo/images/avatar.jpg",
+            "followers": 20
+          },
+          "date": "2012-04-23T18:25:43.511Z",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nulla magna, accumsan sit amet ligula sit amet, pulvinar blandit libero."
+        },
+        {
+          "id": "a3dd9301-1155-4x91-9755-6381a496f4ca",
+          "user": {
+            "username": "johndoe41",
+            "name": "John Doe",
+            "email": "joao_ninguem@google.com.br",
+            "avatar": "https://ianrodrigues.github.io/hugo-tailwind-journal-demo/images/avatar.jpg",
+            "followers": 20
+          },
+          "date": "2012-04-23T18:25:43.511Z",
+          "text": "Maecenas tempor arcu scelerisque orci congue, sit amet venenatis eros varius. Aenean in magna quam. Duis interdum tellus sapien. Aenean eget accumsan odio, sed ullamcorper erat. Fusce quis eros lectus. Vivamus commodo ullamcorper dolor non ultricies. Vestibulum orci enim, lacinia sit amet suscipit vitae, finibus vitae magna. Nunc lacinia sagittis nulla at condimentum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Etiam semper nisl id ornare pulvinar. Fusce turpis turpis, consectetur eget dictum eu, tincidunt ut est. Phasellus nisi erat, fringilla sed bibendum et, consectetur ac neque. Pellentesque purus tortor, facilisis quis velit id, tempor lobortis risus."
+        }
+      ]
+    }
+  }
+]

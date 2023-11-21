@@ -1,0 +1,76 @@
+{
+  "expo": {
+    "name": "Seu Vídeo",
+    "slug": "seu-video",
+    "scheme": "seu-video",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#EF4444"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": false,
+      "requireFullScreen": true,
+      "config": {
+        "usesNonExemptEncryption": false
+      },
+      "infoPlist": {
+        "NSPhotoLibraryUsageDescription": "Permitir que $(PRODUCT_NAME) veja seus vídeos.",
+        "NSPhotoLibraryAddUsageDescription": "Permitir que $(PRODUCT_NAME) salve seus vídeos."
+      },
+      "bundleIdentifier": "com.desafio.seuvideo"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#EF4444"
+      },
+      "permissions": [
+        "android.permission.CAMERA",
+        "android.permission.RECORD_AUDIO",
+        "android.permission.READ_EXTERNAL_STORAGE",
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "android.permission.ACCESS_MEDIA_LOCATION"
+      ],
+      "package": "com.desafio.seuvideo"
+    },
+    "experiments": {
+      "tsconfigPaths": true,
+      "typedRoutes": true
+    },
+    "plugins": [
+      [
+        "expo-camera",
+        {
+          "cameraPermission": "Permitir que $(PRODUCT_NAME) tenha acesso à sua camera."
+        }
+      ],
+      [
+        "expo-screen-orientation",
+        {
+          "initialOrientation": "DEFAULT"
+        }
+      ],
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "Permitir que $(PRODUCT_NAME) tenha acesso à seus vídeos."
+        }
+      ],
+      [
+        "expo-media-library",
+        {
+          "photosPermission": "Permitir que $(PRODUCT_NAME) veja seus vídeos.",
+          "savePhotosPermission": "Permitir que $(PRODUCT_NAME) salve seus vídeos.",
+          "isAccessMediaLocationEnabled": true
+        }
+      ]
+    ]
+  }
+}

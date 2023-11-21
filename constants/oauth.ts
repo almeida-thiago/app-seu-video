@@ -1,0 +1,2 @@
+export const IOS: string = '480279581628-ileeej58av9c041r9n8hjlenkjoj85na.apps.googleusercontent.com'
+export const ANDROID: string = '480279581628-617uukpr6t7fpapcig6qqckrtoq876rr.apps.googleusercontent.com'
