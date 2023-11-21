@@ -6,7 +6,7 @@
       "name": "Andrea Su",
       "email": "asu@google.com.br",
       "avatar": "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-      "followers": 20
+      "followers": 12
     },
     "date": "2012-04-23T18:25:43.511Z",
     "text": "Duis interdum tellus sapien. Aenean eget accumsan odio, sed ullamcorper erat. Fusce quis eros lectus. Vivamus commodo ullamcorper dolor non ultricies. Vestibulum orci enim, lacinia sit amet suscipit vitae, finibus vitae magna. Nunc lacinia sagittis nulla at condimentum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Etiam semper nisl id ornare pulvinar. Fusce turpis turpis, consectetur eget dictum eu, tincidunt ut est. Phasellus nisi erat, fringilla sed bibendum et, consectetur ac neque. Pellentesque purus tortor, facilisis quis velit id, tempor lobortis risus."
@@ -14,11 +14,11 @@
   {
     "id": "a3dd9301-1155-4x91-9755-6381a496f4ca",
     "user": {
-      "username": "@luluz",
+      "username": "luluz",
       "name": "Lucy",
       "email": "lucy@google.com.br",
       "avatar": "https://images.pexels.com/photos/948873/pexels-photo-948873.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-      "followers": 20
+      "followers": 400
     },
     "date": "2012-04-23T18:25:43.511Z",
     "text": "Maecenas tempor arcu scelerisque orci congue, sit amet venenatis eros varius. Aenean in magna quam. Duis interdum tellus sapien. Aenean eget accumsan odio, sed ullamcorper erat. Fusce quis eros lectus. Vivamus commodo ullamcorper dolor non ultricies. Vestibulum orci enim, lacinia sit amet suscipit vitae, finibus vitae magna. Nunc lacinia sagittis nulla at condimentum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Etiam semper nisl id ornare pulvinar. Fusce turpis turpis, consectetur eget dictum eu, tincidunt ut est. Phasellus nisi erat, fringilla sed bibendum et, consectetur ac neque. Pellentesque purus tortor, facilisis quis velit id, tempor lobortis risus."
